@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Cell
+comment0.text=\r\n\ \ \ \ A\ Maze\ is\ made\ up\ of\ Cells\r\n
+comment1.params=
+comment1.target=Cell()
+comment2.params=visited
+comment2.target=void\ setVisited(boolean)
+comment2.text=\r\n\ Setter\ functions\r\n
+comment3.params=right
+comment3.target=void\ setRight(boolean)
+comment4.params=bottom
+comment4.target=void\ setBottom(boolean)
+comment5.params=
+comment5.target=boolean\ getVisited()
+comment5.text=\r\n\ Getter\ functions\r\n
+comment6.params=
+comment6.target=boolean\ getRight()
+comment7.params=
+comment7.target=boolean\ getBottom()
+numComments=8

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=StackGen
+comment1.params=o
+comment1.target=void\ push(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ pop()
+comment2.text=\ adds\ an\ object\ o\ to\ the\ top\ of\ a\ stack\ by\ placing\ it\ in\ the\ \r\n\ \ \ \ \ \ \ reverse\ order\ of\ arrival\ relative\ to\ other\ items\ added\ to\ the\ \r\nstack;\ that\ is,\ last\ in,\ first\ out\ (LIFO)
+comment3.params=
+comment3.target=java.lang.Object\ top()
+comment3.text=\ removes\ and\ returns\ the\ object\ placed\ in\ a\ stack\ most\ recentlt\r\nrelative\ to\ any\ other\ items\ presently\ in\ the\ stack
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\ returns\ the\ Object\ placed\ in\ a\ stack\ most\ recently,\ or\ null\r\nif\ the\ stack\ contains\ no\ items
+numComments=5

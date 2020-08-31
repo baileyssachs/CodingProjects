@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hash
+comment1.params=item
+comment1.target=void\ add(java.lang.Comparable)
+comment2.params=item
+comment2.target=boolean\ containsKey(java.lang.Comparable)
+comment3.params=
+comment3.target=void\ display()
+comment4.params=key
+comment4.target=int\ hash(java.lang.Comparable)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

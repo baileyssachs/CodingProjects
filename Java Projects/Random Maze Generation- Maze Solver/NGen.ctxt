@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=NGen
+comment1.params=
+comment1.target=NGen()
+comment2.params=o\ link
+comment2.target=NGen(java.lang.Object,\ NGen)
+comment3.params=
+comment3.target=java.lang.Object\ getData()
+comment4.params=o
+comment4.target=void\ setData(java.lang.Object)
+comment5.params=
+comment5.target=NGen\ getNext()
+comment6.params=link
+comment6.target=void\ setNext(NGen)
+numComments=7

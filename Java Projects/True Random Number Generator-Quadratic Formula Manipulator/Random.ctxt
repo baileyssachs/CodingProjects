@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Random
+comment0.text=\r\n\ Written\ by\ Bailey\ Sachs\r\n\ x500\:\ Sachs096\r\n
+comment1.params=p1\ p2\ m
+comment1.target=Random(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ the\ random\ class\r\n\ @param\ int\ p1\:\ large\ constant\ prime\ number\r\n\ @param\ int\ p2\:\ large\ constant\ prime\ number\r\n\ @param\ int\ m\:\ largest\ constant\ prime\ number;\ the\ maximum\ possible\ number\r\n
+comment2.params=seed
+comment2.target=void\ setSeed(int)
+comment2.text=\r\n\ sets\ the\ seed\ to\ a\ certain\ int\r\n\ @param\ int\ seed\:\ seed\ for\ the\ random\ generator\ to\ use\r\n
+comment3.params=
+comment3.target=int\ getMaximum()
+comment3.text=\r\n\ Gets\ the\ maximum\ possible\ random\ number\r\n\ @return\ int\:\ maximum\ possible\ number\ that\ can\ be\ made\r\n
+comment4.params=
+comment4.target=int\ random()
+comment4.text=\r\n\ Generates\ a\ random\ int\ smaller\ than\ m\r\n\ uses\ the\ formula\:\ rNew\ \=\ ((p1\ *\ rOld)\ +\ p2)\ %\ m\r\n\ uses\ seed\ for\ the\ first\ run\ but\ after\ that\ just\ uses\ the\ rOld.\r\n\ @return\ int\:\ a\ random\ number\ smaller\ than\ m\r\n
+comment5.params=lower\ upper
+comment5.target=int\ randomInteger(int,\ int)
+comment5.text=\r\n\ generates\ a\ random\ int\ within\ a\ range\r\n\ @param\ int\ lower\:\ Lower\ bound\r\n\ @param\ int\ upper\:\ upper\ bound\r\n\ @return\ int\:\ an\ int\ within\ the\ range\ given\r\n
+comment6.params=
+comment6.target=boolean\ randomBoolean()
+comment6.text=\r\n\ Generates\ a\ random\ boolean\ with\ a\ 50%\ chance\ of\ it\ being\ true\ and\ a\ 50%\ chance\ of\ it\ being\ false\r\n\ @return\ boolean\:\ a\ true\ or\ false\ with\ a\ 50%\ chance\ of\ being\ either\r\n
+comment7.params=lower\ upper
+comment7.target=double\ randomDouble(double,\ double)
+comment7.text=\r\n\ Generates\ a\ random\ double\ within\ the\ given\ bounds\r\n\ @param\ double\ lower\:\ lower\ bound\r\n\ @param\ double\ upper\:\ upper\ bound\r\n\ @return\ double\:\ a\ random\ double\ within\ the\ range\ given\r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Q1Gen
+comment1.params=
+comment1.target=Q1Gen()
+comment2.params=o
+comment2.target=void\ add(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ remove()
+comment4.params=
+comment4.target=int\ length()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+numComments=6

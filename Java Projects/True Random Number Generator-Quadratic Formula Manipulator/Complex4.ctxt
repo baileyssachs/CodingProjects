@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Complex4
+comment0.text=\r\n\ Taken\ from\ canvas\ but\ edited\ to\ fix\ the\ toString\ because\ it\ looked\ bad.\r\n
+comment1.params=a\ b
+comment1.target=Complex4(double,\ double)
+comment10.params=anotherObject
+comment10.target=boolean\ equals(java.lang.Object)
+comment2.params=
+comment2.target=Complex4()
+comment3.params=value
+comment3.target=void\ setRealPart(double)
+comment4.params=value
+comment4.target=void\ setImaginaryPart(double)
+comment5.params=
+comment5.target=double\ getRealPart()
+comment6.params=
+comment6.target=double\ getImaginaryPart()
+comment7.params=c
+comment7.target=void\ addComplex(Complex4)
+comment8.params=c
+comment8.target=void\ subtractComplex(Complex4)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11

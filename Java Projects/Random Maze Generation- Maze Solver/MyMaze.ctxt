@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyMaze
+comment1.params=rows\ cols
+comment1.target=MyMaze(int,\ int)
+comment2.params=rows\ cols
+comment2.target=MyMaze\ makeMaze(int,\ int)
+comment2.text=TODO\:\ Create\ a\ new\ maze\ using\ the\ algorithm\ found\ in\ the\ writeup.
+comment3.params=path
+comment3.target=void\ printMaze(boolean)
+comment3.text=TODO\:\ Print\ a\ representation\ of\ the\ maze\ to\ the\ terminal
+comment4.params=
+comment4.target=void\ solveMaze()
+comment4.text=TODO\:\ Solve\ the\ maze\ using\ the\ algorithm\ found\ in\ the\ writeup.
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

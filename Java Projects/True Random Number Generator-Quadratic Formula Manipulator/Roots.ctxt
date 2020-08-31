@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Roots
+comment0.text=\r\n\ Written\ by\ Bailey\ Sachs\r\n\ x500\:\ Sachs096\r\n
+comment1.params=a
+comment1.target=Roots(Quadratic)
+comment1.text=\r\n\ \ Constructor\ for\ the\ Roots\ class\r\n\ \ @param\ Quadratic\ a\:\ quadratic\ equation\ that\ will\ be\ solved\r\n
+comment2.params=
+comment2.target=void\ findRoots()
+comment2.text=\r\n\ Calculates\ the\ roots\ of\ the\ quadratic\ equation\ using\ the\ quadratic\ formula\r\n\ stores\ the\ roots\ as\ Complex4\ objects\ in\ variables\ named\ firstRoot\ and\ secondRoot\r\n
+comment3.params=
+comment3.target=Complex4\ getFirstRoot()
+comment3.text=\r\n\ returns\ the\ first\ answer\ to\ the\ quadratic\ equation\r\n\ @return\ Complex4\:\ first\ root\ of\ the\ quadratic\ equation\ as\ a\ complex\ number\r\n
+comment4.params=
+comment4.target=Complex4\ getSecondRoot()
+comment4.text=\r\n\ returns\ the\ second\ answer\ to\ the\ quadratic\ equation\r\n\ @return\ Complex4\:\ second\ root\ of\ the\ quadratic\ equation\ as\ a\ complex\ number\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ returns\ a\ string\ representation\ of\ the\ answer\ to\ the\ quadratic\ equation\r\n\ @return\ String\:\ both\ the\ first\ root\ and\ the\ second\ root\ which\ are\ solutions\ to\ the\ quadratic\ equation\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

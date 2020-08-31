@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QGen
+comment1.params=o
+comment1.target=void\ add(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ remove()
+comment2.text=\ adds\ an\ object\ o\ to\ a\ queue\ placing\ it\ in\ the\ order\ of\ arrival\ \r\n\ \ \ \ \ \ \ relative\ to\ other\ items\ added\ to\ the\ queue--first\ in,\ first\ out\r\n(FIFO)
+comment3.params=
+comment3.target=int\ length()
+comment3.text=\ removes\ and\ returns\ the\ object\ placed\ in\ a\ queue\ prior\r\nto\ any\ other\ items\ presently\ in\ the\ queue
+numComments=4
