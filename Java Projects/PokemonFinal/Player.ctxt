@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Player.java\ \ \r\n\r\n\ @author\:\r\n\ Assignment\ \#\:\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ \r\n\r\n
+comment1.params=x\ y\ g
+comment1.target=Player(int,\ int,\ javax.swing.JFrame)
+comment1.text=\r\n\ Constructs\ the\ player\ class\r\n\ @param\ int\ The\ x\ cordinant\r\n\ @param\ int\ The\ y\ cordinant\r\n\ @param\ JFrame\ The\ JFrame\r\n
+comment2.params=e
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment2.text=\r\n\ Reads\ the\ key\ pressed\r\n\ @param\ KeyEvent\ The\ key\ event\r\n
+comment3.params=e
+comment3.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment3.text=\r\n\ Reads\ the\ key\ Released\r\n\ @param\ KeyEvent\ The\ key\ event\r\n
+comment4.params=a
+comment4.target=void\ Dialogue(int)
+comment4.text=\r\n\ The\ dialogue\r\n\ @param\ int\ The\ \r\n
+comment5.params=
+comment5.target=void\ encounter()
+comment6.params=
+comment6.target=void\ update()
+comment7.params=
+comment7.target=int\ getRoomNum()
+comment8.params=g2d
+comment8.target=void\ draw(java.awt.Graphics2D)
+comment9.params=
+comment9.target=java.awt.Image\ getPlayerImage()
+numComments=10

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=shoe
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ shoe\ here.\r\n\ \r\n\ @author\ Bailey\ Sachs\r\n\ @description\ This\ class\ extends\ the\ deck\ class\ and\ is\ the\ shoe\ for\ the\ dealer\ to\ use.\r\n
+comment1.params=n
+comment1.target=shoe(int)
+comment1.text=\r\n\ Constructs\ a\ shoe\ with\ a\ specified\ number\ of\ decks\r\n\ \r\n\ @param\ int\ number\ of\ decks\ in\ the\ shoe\r\n
+numComments=2

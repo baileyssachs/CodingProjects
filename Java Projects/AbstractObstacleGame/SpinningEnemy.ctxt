@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SpinningEnemy
+comment1.params=cX\ cY\ w\ h\ r
+comment1.target=SpinningEnemy(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ test()
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment4.params=
+comment4.target=int\ randomColorNum()
+comment5.params=
+comment5.target=void\ move()
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics)
+numComments=7

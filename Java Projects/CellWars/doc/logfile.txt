@@ -1,0 +1,161 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\Java\jdk1.8.0_51\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\dwai93\Desktop\AP Comp Sci Course Materials\AP Comp Sci Course Materials\Program & Installation Files\Jar Files\BreezySwing.jar;C:\Users\dwai93\Desktop\AP Comp Sci Course Materials\AP Comp Sci Course Materials\Program & Installation Files\Jar Files\gridworld.jar;C:\Users\dwai93\Desktop\AP Comp Sci Course Materials\AP Comp Sci Course Materials\Program & Installation Files\Jar Files\GUI_Extension.jar;C:\Users\dwai93\Desktop\AP Comp Sci Course Materials\AP Comp Sci Course Materials\Program & Installation Files\Jar Files\hamcrest-core-1.3.jar;C:\Users\dwai93\Desktop\AP Comp Sci Course Materials\AP Comp Sci Course Materials\Program & Installation Files\Jar Files\junit-4.12.jar;C:\Users\dwai93\Desktop\AP Comp Sci Course Materials\AP Comp Sci Course Materials\Program & Installation Files\Jar Files\junit-4.12-sources.jar;C:\Users\dwai93\Desktop\AP Comp Sci Course Materials\AP Comp Sci Course Materials\Program & Installation Files\Jar Files\KarelJRobot.jar;C:\Users\dwai93\Desktop\AP Comp Sci Course Materials\AP Comp Sci Course Materials\Program & Installation Files\Jar Files\TerminalIO.jar;C:\Users\dwai93\Desktop\AP Comp Sci Course Materials\AP Comp Sci Course Materials\Program & Installation Files\Jar Files\TurtleGraphics.jar;C:\Users\dwai93\Desktop\AP Comp Sci Course Materials\AP Comp Sci Course Materials\Program & Installation Files\Jar Files\jeliotExtension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\dwai93\Desktop\CellWars 2018 Student
+-d
+C:\Users\dwai93\Desktop\CellWars 2018 Student\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java...
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:49: error: illegal start of type
+        for(int r = 0; r < grid.getRows(); r++) {
+        ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:49: error: ')' expected
+        for(int r = 0; r < grid.getRows(); r++) {
+                 ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:49: error: illegal start of type
+        for(int r = 0; r < grid.getRows(); r++) {
+                    ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:49: error: <identifier> expected
+        for(int r = 0; r < grid.getRows(); r++) {
+                     ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:49: error: ';' expected
+        for(int r = 0; r < grid.getRows(); r++) {
+                      ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:49: error: > expected
+        for(int r = 0; r < grid.getRows(); r++) {
+                               ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:49: error: <identifier> expected
+        for(int r = 0; r < grid.getRows(); r++) {
+                                            ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:49: error: illegal start of type
+        for(int r = 0; r < grid.getRows(); r++) {
+                                              ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:49: error: <identifier> expected
+        for(int r = 0; r < grid.getRows(); r++) {
+                                               ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:49: error: ';' expected
+        for(int r = 0; r < grid.getRows(); r++) {
+                                                 ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:50: error: illegal start of type
+            for(int c = 0; c < grid.getCols(); c++) {
+               ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:50: error: <identifier> expected
+            for(int c = 0; c < grid.getCols(); c++) {
+                ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:50: error: ';' expected
+            for(int c = 0; c < grid.getCols(); c++) {
+                   ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:50: error: illegal start of type
+            for(int c = 0; c < grid.getCols(); c++) {
+                      ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:50: error: <identifier> expected
+            for(int c = 0; c < grid.getCols(); c++) {
+                       ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:50: error: > expected
+            for(int c = 0; c < grid.getCols(); c++) {
+                                           ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:50: error: ';' expected
+            for(int c = 0; c < grid.getCols(); c++) {
+                                            ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:50: error: <identifier> expected
+            for(int c = 0; c < grid.getCols(); c++) {
+                                                ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:50: error: illegal start of type
+            for(int c = 0; c < grid.getCols(); c++) {
+                                                  ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:50: error: <identifier> expected
+            for(int c = 0; c < grid.getCols(); c++) {
+                                                   ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:50: error: ';' expected
+            for(int c = 0; c < grid.getCols(); c++) {
+                                                     ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:51: error: illegal start of type
+                if ((temp.getNeighbors(r, c, grid) == 2) && (grid.getCell(r, c) == getID())) {
+                   ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:51: error: <identifier> expected
+                if ((temp.getNeighbors(r, c, grid) == 2) && (grid.getCell(r, c) == getID())) {
+                    ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:51: error: ';' expected
+                if ((temp.getNeighbors(r, c, grid) == 2) && (grid.getCell(r, c) == getID())) {
+                     ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:51: error: illegal start of type
+                if ((temp.getNeighbors(r, c, grid) == 2) && (grid.getCell(r, c) == getID())) {
+                         ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:51: error: <identifier> expected
+                if ((temp.getNeighbors(r, c, grid) == 2) && (grid.getCell(r, c) == getID())) {
+                                        ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:51: error: <identifier> expected
+                if ((temp.getNeighbors(r, c, grid) == 2) && (grid.getCell(r, c) == getID())) {
+                                           ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:51: error: <identifier> expected
+                if ((temp.getNeighbors(r, c, grid) == 2) && (grid.getCell(r, c) == getID())) {
+                                                 ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:51: error: ';' expected
+                if ((temp.getNeighbors(r, c, grid) == 2) && (grid.getCell(r, c) == getID())) {
+                                                  ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:62: error: class, interface, or enum expected
+        }
+        ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:65: error: class, interface, or enum expected
+    for(int r = 0; r < grid.getRows(); r++) {
+                   ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:65: error: class, interface, or enum expected
+    for(int r = 0; r < grid.getRows(); r++) {
+                                       ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:66: error: class, interface, or enum expected
+        for(int c = 0; c < grid.getCols(); c++) {
+                       ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:66: error: class, interface, or enum expected
+        for(int c = 0; c < grid.getCols(); c++) {
+                                           ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:70: error: class, interface, or enum expected
+            }
+            ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:74: error: class, interface, or enum expected
+    for(int x = 0; x < grid.getRows(); x++) {
+                   ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:74: error: class, interface, or enum expected
+    for(int x = 0; x < grid.getRows(); x++) {
+                                       ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:75: error: class, interface, or enum expected
+        for(int y = 0; y < grid.getCols(); y++) {
+                       ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:75: error: class, interface, or enum expected
+        for(int y = 0; y < grid.getCols(); y++) {
+                                           ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:80: error: class, interface, or enum expected
+                if(grid.getCell(x - 1 ,y) == -1 && x-1 >= 0)
+                ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:82: error: class, interface, or enum expected
+                if(grid.getCell(x ,y + 1) == -1 && y + 1 < grid.getRows())
+                ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:84: error: class, interface, or enum expected
+                if(grid.getCell(x ,y - 1) == -1 && y-1 >= 0)
+                ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:86: error: class, interface, or enum expected
+            }
+            ^
+C:\Users\dwai93\Desktop\CellWars 2018 Student\JakePaulerAI.java:91: error: class, interface, or enum expected
+}
+^
+44 errors

@@ -1,0 +1,81 @@
+
+import javax.swing.JPanel;
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+import javax.swing.Timer;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
+import java.awt.Image;
+import javax.swing.ImageIcon;
+import java.awt.event.KeyListener;
+/**
+ * Game.java  
+ *
+ * @author:
+ * Assignment #:
+ * 
+ * Brief Program Description:
+ * 
+ *
+ */
+public class Game extends JPanel implements ActionListener
+{
+    
+    Timer gameloop;
+    Player p;
+    private String background1 = "/images/PaletTown.png";
+    private String background2 = "/images/Route1.png";
+    public Game()
+    {
+        p = new Player(201,617);
+        setFocusable(true);
+        gameloop = new Timer(10,this);
+        gameloop.start();
+        
+        addKeyListener(new KeyInput(p));
+    }
+
+    public void paint(Graphics g)
+    {
+        if(p.getRoomNum() == 0)
+        {
+            super.paint(g);
+            Graphics2D g2d = (Graphics2D) g;
+            g2d.drawImage(getBackgroundImage1(), 0,0,this);
+            p.draw(g2d);
+        }
+        else if(p.getRoomNum() == 1)
+        {
+            super.paint(g);
+            Graphics2D g2d = (Graphics2D) g;
+            g2d.drawImage(getBackgroundImage2(), 0,0,this);
+            p.draw(g2d);
+        }
+
+    }
+
+    public Image getBackgroundImage1()
+    {
+        ImageIcon i = new ImageIcon(getClass().getResource(background1));
+        return i.getImage();
+    }
+
+    public Image getBackgroundImage2()
+    {
+        ImageIcon i = new ImageIcon(getClass().getResource(background1));
+        return i.getImage();
+    }
+
+    public Player getPlayer()
+    {
+        return p;
+    }
+
+    public void actionPerformed(ActionEvent ae)
+    {
+        
+        p.update();
+        repaint();
+
+    }
+}

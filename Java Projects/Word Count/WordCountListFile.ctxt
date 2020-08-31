@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WordCountListFile
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=WordCountListFile()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WordCountListFile\r\n
+comment2.params=list\ fileName
+comment2.target=void\ save(WordCountList,\ java.lang.String)
+comment3.params=fileName
+comment3.target=WordCountList\ load(java.lang.String)
+numComments=4

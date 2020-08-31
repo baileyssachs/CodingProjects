@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Charmander
+comment0.text=\r\n\ Charmander.java\ \ \r\n\r\n\ @author\:\r\n\ Assignment\ \#\:\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ \r\n\r\n
+comment1.params=
+comment1.target=Charmander()
+comment1.text=\r\n\ Constructs\ the\ Charmander\ class\r\n\ @param\ String\ The\ name\r\n\ @param\ int\ The\ type\ (1\ \=\ fire,\ 2\ \=\ water,\ 3\ \=\ grass,\ 4\ \=\ normal)\r\n\ @param\ int\ The\ health\r\n\ @param\ int\ The\ attack\r\n\ @param\ int\ The\ defence\r\n\ @param\ int\ The\ SPA\r\n\ @param\ int\ The\ SPD\r\n\ @param\ int\ The\ Speed\r\n\ @param\ Attack\ Attack\ 1\r\n\ @param\ Attack\ Attack\ 2\r\n\ @param\ Attack\ Attack\ 3\r\n\ @param\ Attack\ Attack\ 4\r\n\ \ \ \ \ \r\n
+comment2.params=
+comment2.target=java.awt.Image\ getImage()
+comment2.text=\r\n\ Returns\ the\ image\r\n\ @return\ Image\ The\ image\r\n
+comment3.params=
+comment3.target=java.awt.Image\ getImageBack()
+comment3.text=\r\n\ Returns\ the\ back\ image\r\n\ @return\ Image\ The\ back\ image\r\n
+numComments=4

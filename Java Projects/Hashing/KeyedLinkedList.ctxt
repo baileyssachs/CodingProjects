@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=KeyedLinkedList
+comment0.text=\r\n\ This\ KeyedLinkedList\ object\ represents\ a\ Keyed\ List\ ADT\ implemented\ as\r\n\ a\ LinkedList.\r\n\ \r\n\ @author\ Bailey\ Sachs\r\n\ @version\r\n
+comment1.params=
+comment1.target=int\ size()
+comment1.text=\r\n\ returns\ the\ logical\ size\ of\ this\ list\r\n
+comment2.params=key\ value
+comment2.target=boolean\ put(java.lang.Object,\ java.lang.Object)
+comment2.text=\r\n\ if\ key\ found,\ update\ value\ and\ return\ false\ (nothing\ added),\ \r\n\ otherwise\ grow\ list\ and\ return\ true\r\n
+comment3.params=key
+comment3.target=java.lang.Object\ get(java.lang.Object)
+comment3.text=\r\n\ search\ for\ key,\ return\ associated\ value\r\n\ if\ key\ not\ found,\ return\ null\r\n
+comment4.params=key
+comment4.target=boolean\ remove(java.lang.Object)
+numComments=5

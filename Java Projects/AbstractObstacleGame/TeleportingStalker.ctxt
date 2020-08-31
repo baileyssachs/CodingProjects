@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TeleportingStalker
+comment0.text=\r\n\ TeleportingStalker.java\ \ \r\n\r\n\ @author\:\r\n\ Assignment\ \#\:\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ \r\n\r\n
+comment1.params=x\ y\ w\ h\ p
+comment1.target=TeleportingStalker(int,\ int,\ int,\ int,\ java.awt.Rectangle)
+comment2.params=
+comment2.target=boolean\ test()
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment4.params=
+comment4.target=void\ move()
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PriorityQueue
+comment1.params=
+comment1.target=int\ size()
+comment2.params=
+comment2.target=boolean\ empty()
+comment3.params=element
+comment3.target=java.lang.Comparable\ add(java.lang.Comparable)
+comment4.params=
+comment4.target=java.lang.Comparable\ peek()
+comment5.params=
+comment5.target=java.lang.Comparable\ remove()
+comment6.params=
+comment6.target=void\ clear()
+numComments=7

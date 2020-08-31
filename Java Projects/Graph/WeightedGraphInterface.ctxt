@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=WeightedGraphInterface
+comment1.params=
+comment1.target=boolean\ empty()
+comment10.params=vertex
+comment10.target=boolean\ isMarked(java.lang.Object)
+comment11.params=
+comment11.target=java.lang.Object\ getUnmarked()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=boolean\ full()
+comment3.params=vertex
+comment3.target=void\ addVertex(java.lang.Object)
+comment4.params=vertex
+comment4.target=boolean\ hasVertex(java.lang.Object)
+comment5.params=fromVertex\ toVertex\ weight
+comment5.target=void\ setEdge(java.lang.Object,\ java.lang.Object,\ int)
+comment6.params=fromVertex\ toVertex
+comment6.target=int\ weightIs(java.lang.Object,\ java.lang.Object)
+comment7.params=vertex
+comment7.target=QueueInterface\ getAdjacentVertices(java.lang.Object)
+comment8.params=
+comment8.target=void\ clearMarks()
+comment9.params=vertex
+comment9.target=void\ markVertex(java.lang.Object)
+numComments=13

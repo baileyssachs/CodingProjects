@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GlobalPosition
+comment0.text=\r\n\ GlobalPosition.java\ \ \r\n\r\n\ @author\:\r\n\ Assignment\ \#\:\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ \r\n\r\n
+comment1.params=xz\ yz
+comment1.target=GlobalPosition(int,\ int)
+comment1.text=\r\n\ Controls\ the\ player's\ position\r\n\ @param\ int\ The\ player's\ x\ cordinant\r\n\ @param\ int\ The\ player's\ y\ cordinant\r\n
+comment2.params=a\ b
+comment2.target=void\ move(int,\ int)
+comment2.text=\r\n\ Moves\ the\ player\r\n\ @param\ int\ Where\ the\ x\ cordinant\ should\ be\ moved\r\n\ @param\ int\ Where\ the\ y\ cordinant\ should\ be\ moved\r\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FizzBuzz
+comment0.text=\r\n\ FizzBuzz.java\ \r\n\r\n\ @author\:\ Bailey\ Sachs\r\n\ Assignment\ \#\:\ FizzBuzz\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ Counts\ from\ 1-100\ but\r\n\ on\ multiples\ of\ 3\ prints\ out\ fizz\r\n\ on\ multiples\ of\ 5\ prints\ out\ buzz\r\n\ and\ on\ multiples\ of\ 3\ and\ 5\ prints\ out\ fizzbuzz\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=void\ FizzOrBuzz(int,\ int)
+comment2.text=\r\n\ Counts\ from\ a\ to\ b\ and\ prints\ out\ fizz\ on\ multiples\ of\ 3,\ buzz\ on\ multiples\ of\ 5\r\n\ and\ fizzbuzz\ on\ multiples\ of\ 3\ and\ 5\r\n\ @param\ int\ a,\ starting\ numver\r\n\ @param\ int\ b,\ ending\ number\r\n
+numComments=3

@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=GameOfLife
+comment0.text=\r\n\ The\ model\ for\ John\ Conway's\ Game\ of\ Life.\r\n\r\n\ @author\ Rick\ Mercer\r\n\r\n\ This\ class\ has\ all\ needed\ methods\ as\ stubs.\ Comments\ explain\ each\ method.\r\n\r\n
+comment1.params=rows\ cols
+comment1.target=GameOfLife(int,\ int)
+comment1.text=\r\n\ Write\ the\ constructor\ so\ it\ takes\ two\ integer\ arguments\ to\ represent\ the\r\n\ number\ of\ rows\ and\ columns\ in\ the\ game\ of\ life.\ The\ constructor\ creates\ a\r\n\ society\ with\ no\ cells\ but\ space\ to\ store\ rows*cols\ cells.\r\n\r\n\ @param\ rows\r\n\ \ \ \ \ \ \ \ \ \ \ \ The\ height\ of\ the\ grid\ that\ shows\ the\ cells.\r\n\ @param\ cols\r\n\ \ \ \ \ \ \ \ \ \ \ \ The\ width\ of\ the\ grid\ that\ shows\ the\ cells.\r\n
+comment2.params=
+comment2.target=int\ numberOfRows()
+comment2.text=\r\n\ Return\ the\ number\ of\ rows,\ which\ can\ be\ indexed\ from\ 0..numberOfRows()-1.\r\n\r\n\ @return\ The\ height\ of\ the\ society.\r\n
+comment3.params=
+comment3.target=int\ numberOfColumns()
+comment3.text=\r\n\ The\ number\ of\ columns,\ which\ can\ be\ indexed\ from\ 0..numberOfColumns()-1.\r\n\r\n\ @return\ The\ height\ of\ the\ society.\r\n
+comment4.params=row\ col
+comment4.target=void\ growCellAt(int,\ int)
+comment4.text=\r\n\ Place\ a\ new\ cell\ in\ the\ society.\ Precondition\:\ row\ and\ col\ are\ in\ range.\r\n\r\n\ @param\ row\r\n\ \ \ \ \ \ \ \ \ \ \ \ The\ row\ to\ grow\ the\ cell.\r\n\ @param\ col\r\n\ \ \ \ \ \ \ \ \ \ \ \ The\ column\ to\ grow\ the\ cell.\r\n
+comment5.params=row\ col
+comment5.target=boolean\ cellAt(int,\ int)
+comment5.text=\r\n\ 5)\ Return\ true\ if\ there\ is\ a\ cell\ at\ the\ given\ row\ and\ column.\ Return\r\n\ false\ if\ there\ is\ none\ at\ the\ specified\ location.\r\n\r\n\ @param\ row\r\n\ \ \ \ \ \ \ \ \ \ \ \ The\ row\ to\ check.\r\n\ @param\ col\r\n\ \ \ \ \ \ \ \ \ \ \ \ The\ column\ to\ check.\r\n\ @return\ True\ if\ there\ is\ a\ cell\ at\ the\ given\ row\ or\ false\ if\ none\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Return\ one\ big\ string\ of\ cells\ to\ represent\ the\ current\ state\ of\ the\r\n\ society\ of\ cells\ (see\ output\ below\ where\ '.'\ represents\ an\ empty\ space\r\n\ and\ 'O'\ is\ a\ live\ cell.\ There\ is\ no\ need\ to\ test\ toString.\ Simply\ use\ it\r\n\ to\ visually\ inspect\ if\ needed.\ Here\ is\ one\ sample\ output\ from\ toString\:\r\n\r\n\ GameOfLife\ society\ \=\ new\ GameOfLife(4,\ 14);\ society.growCellAt(1,\ 2);\r\n\ society.growCellAt(2,\ 3);\ society.growCellAt(3,\ 4);\r\n\ System.out.println(society.toString());\r\n\r\n\ Output\ ..............\ ..O...........\ ...O..........\ ....O.........\r\n\r\n\ @return\ A\ textual\ representation\ of\ this\ society\ of\ cells.\r\n
+comment7.params=row\ col
+comment7.target=int\ neighborCount(int,\ int)
+comment7.text=\r\n\ Count\ the\ neighbors\ around\ the\ given\ location.\ Use\ wraparound.\ A\ cell\ in\r\n\ row\ 0\ has\ neighbors\ in\ the\ last\ row\ if\ a\ cell\ is\ in\ the\ same\ column,\ or\r\n\ the\ column\ to\ the\ left\ or\ right.\ In\ this\ example,\ cell\ 0,5\ has\ two\r\n\ neighbors\ in\ the\ last\ row,\ cell\ 2,8\ has\ four\ neighbors,\ cell\ 2,0\ has\ four\r\n\ neighbors,\ cell\ 1,0\ has\ three\ neighbors.\ The\ cell\ at\ 3,8\ has\ 3\ neighbors.\r\n\ The\ potential\ location\ for\ a\ cell\ at\ 4,8\ would\ have\ three\ neighbors.\r\n\r\n\ .....O..O\r\n\ O........\r\n\ O.......O\r\n\ O.......O\r\n\ ....O.O..\r\n\r\n\r\n\ The\ return\ values\ should\ always\ be\ in\ the\ range\ of\ 0\ through\ 8.\r\n\r\n\ @return\ The\ number\ of\ neighbors\ around\ any\ cell\ using\ wrap\ around.\r\n
+comment8.params=
+comment8.target=void\ update()
+comment8.text=\r\n\ Update\ the\ state\ to\ represent\ the\ next\ society.\ Typically,\ some\ cells\r\n\ will\ die\ off\ while\ others\ are\ born.\r\n
+numComments=9

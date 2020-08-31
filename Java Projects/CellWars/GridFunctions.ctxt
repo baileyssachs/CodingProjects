@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GridFunctions
+comment1.params=r\ c\ grid
+comment1.target=int\ mostCommonNeighbor(int,\ int,\ Grid)
+comment2.params=r\ c\ grid
+comment2.target=int\ getNeighbors(int,\ int,\ Grid)
+numComments=3

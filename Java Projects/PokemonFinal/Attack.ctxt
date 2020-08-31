@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Attack
+comment0.text=\r\n\ Attack.java\ \ \r\n\r\n\ @author\:\r\n\ Assignment\ \#\:\r\n\ \r\n\ Brief\ Program\ Description\:\r\n\ \r\n\r\n
+comment1.params=n\ d\ t\ tp
+comment1.target=Attack(java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructs\ the\ Attack\ class\r\n\ @param\ String\ Name\ of\ the\ attack\r\n\ @param\ int\ Damage\ dealt\r\n\ @param\ int\ Type\ 1\ \=\ fire,\ 2\ \=\ water,\ 3\ \=\ grass,\ 4\ \=\ normal\r\n\ @param\ int\ Type\ of\ attack\ 1\ \=\ Physical,\ 2\ \=\ Special\r\n
+comment2.params=
+comment2.target=int\ getType()
+comment2.text=\r\n\ Returns\ 1\ for\ Fire,\ 2\ for\ Water,\ 3\ for\ Grass,\ 4\ for\ normal\r\n\ @return\ int\ Type\r\n
+comment3.params=
+comment3.target=int\ getTypeOfAttack()
+comment3.text=\r\n\ 1\ for\ physical\ 2\ for\ special\r\n\ @return\ int\ Type\ of\ attack\r\n
+comment4.params=
+comment4.target=int\ getDamage()
+comment4.text=\r\n\ Returns\ Damage\r\n\ @return\ int\ Damage\r\n
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment5.text=\r\n\ Return\ name\r\n\ @return\ String\ Name\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Return\ a\ string\ representation\ of\ the\ class\r\n\ @return\ String\ A\ string\ representation\ of\ the\ class\r\n
+numComments=7
