@@ -1,0 +1,1 @@
+I Wrote thermo_update.c and I created the input.txt file to solve puzzles in puzzlebox.c
